@@ -1,6 +1,7 @@
 # to-be-eveything-admin
-app: the route and app
-modules: the modules will customer create
-utils: the pulick packages will used
-base: the meta class
-config: the config files  
+# cuisine：the  package of app named cuisine 
+# it: the package of app named it
+# joke: the package of app named joke
+# Travel: the package of app name Travel
+# publick: the public module 
+# worker: get the acess_token

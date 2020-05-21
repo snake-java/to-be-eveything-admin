@@ -1,0 +1,11 @@
+database:
+  hostname: 10.0.0.200
+  port: 3306
+  database: db_wxprogram
+  username: root
+  password: qwe123
+
+redis:
+  host: 10.0.0.200
+  port: 6379
+
