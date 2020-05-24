@@ -1,0 +1,5 @@
+token:
+  appid: 11233
+  secret: 11111
+
+logfile: "log/worker.log" #以相对路径写入
